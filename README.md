@@ -1,4 +1,4 @@
-#Tales from the Crypto
+# Tales from the Crypto
 
 ![Stock Sentiment](Images/sentimental.jpeg)
 
