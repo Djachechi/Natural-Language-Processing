@@ -6,11 +6,11 @@ There's lot of hype in lately about cryptocurrency, headlines regarding Bitcoin 
 
 ## World Cloud
 
-![Eth cloud](https://github.com/Djachechi/Natural-Language-Processing/blob/main/Images/eth-word-cloud.png)
-![BTC cloud](https://github.com/Djachechi/Natural-Language-Processing/blob/main/Images/btc-word-cloud.png)
+![Eth cloud](https://github.com/Djachechi/Natural-Language-Processing/blob/main/Images/eth-word-cloud.JPG)
+![BTC cloud](https://github.com/Djachechi/Natural-Language-Processing/blob/main/Images/btc-word-cloud.JPG)
 
 ## Name Entitity Recognition
 
-![Eth recogn](https://github.com/Djachechi/Natural-Language-Processing/blob/main/Starter_Code/EthereumNERPNG.PNG)
-![BTC recogn](https://github.com/Djachechi/Natural-Language-Processing/blob/main/Starter_Code/BitcoinNER.PNG)
+![Eth recogn](https://github.com/Djachechi/Natural-Language-Processing/blob/main/Images/EthereumNERPNG.PNG)
+![BTC recogn](https://github.com/Djachechi/Natural-Language-Processing/blob/main/Images/BitcoinNER.PNG)
 
